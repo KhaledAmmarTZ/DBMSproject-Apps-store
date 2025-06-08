@@ -20,8 +20,6 @@ session_start();
 		height: 100vh;
 		}
 
-        
-
         .home-container {
             background-color: #fff;
             padding: 20px;
