@@ -81,9 +81,6 @@ if (isset($_GET['search_customer_id'])) {
 }
 ?>
 
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -115,9 +112,6 @@ if (isset($_GET['search_customer_id'])) {
     }
 </style>
 
-
-
-	
 	
 	<script>
         function navigateToPage(page) {
