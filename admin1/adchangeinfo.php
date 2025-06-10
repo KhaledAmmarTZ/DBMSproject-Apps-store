@@ -17,10 +17,6 @@ if (isset($_GET['sign']) && $_GET['sign'] === "out") {
 include("../connect.php");
 // Update admin information
 
-
-
-    
-
     
 if (isset($_POST['changeinfo'])) {
     $newName = mysqli_real_escape_string($con, $_POST['username']);
