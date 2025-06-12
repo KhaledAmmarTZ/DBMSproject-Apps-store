@@ -10,10 +10,6 @@
    }
 ?>
 
-<!-- Rest of your HTML code -->
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 
