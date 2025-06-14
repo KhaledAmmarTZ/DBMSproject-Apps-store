@@ -39,8 +39,6 @@ $result = mysqli_stmt_get_result($stmt);
         echo "Error: " . mysqli_error($con);
     }
 
-    
-
 ?>
 
 <!DOCTYPE html>
