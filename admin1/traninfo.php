@@ -95,10 +95,6 @@ if (isset($_GET['search_product_id'])) {
     }
 </style>
 
-
-
-	
-	
 	<script>
         function navigateToPage(page) {
             window.location.href = page;
