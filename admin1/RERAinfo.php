@@ -98,10 +98,6 @@ if (isset($_GET['search_product_id'])) {
         /* Add any additional styling for form elements if needed */
     }
 </style>
-
-
-
-	
 	
 	<script>
         function navigateToPage(page) {
